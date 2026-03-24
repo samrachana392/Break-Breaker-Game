@@ -6,9 +6,11 @@ A classic Brick Breaker arcade game built from scratch in **C++ with OpenGL and 
 
 ## 📸 Screenshots
 
-![Menu Screen](image.png)
-![Gameplay 2D](image-1.png)
-![Gameplay 3D](image-2.png)
+# 📸 Screenshots
+
+![Menu Screen](image/Menu.png)
+![Gameplay 2D](image/2dgame.png)
+![Gameplay 3D](image/3dgame.png)
 
 ---
 
